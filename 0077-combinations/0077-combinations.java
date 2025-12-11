@@ -7,13 +7,14 @@ class Solution {
         
     }
     public void helper(int n,int count,List<Integer> temp,List<List<Integer>> ans,int k){
-        if(count>n || temp.size()==k){
-            if(temp.size()==k){
-                List<Integer> a=new ArrayList<>(temp);
-                ans.add(a);
-            }
+        if (temp.size() == k) {
+            ans.add(new ArrayList<>(temp));
             return;
         }
+           if (count > n) {
+            return;
+        }
+     
         //include element
         temp.add(count);
         helper(n,count+1,temp,ans,k);
