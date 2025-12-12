@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0077-combinations) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
