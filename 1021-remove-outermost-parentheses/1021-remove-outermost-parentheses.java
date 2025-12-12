@@ -1,5 +1,6 @@
 class Solution {
     public String removeOuterParentheses(String s) {
+        //this is using a stack and hashset
     //     Stack<Integer> stint=new Stack<>();//here i store index of not to add bracket
     //     Stack<Character> stchar=new Stack<>();
     //     for(int i=0;i<s.length();i++){
