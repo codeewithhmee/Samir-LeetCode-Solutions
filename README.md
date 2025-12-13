@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
