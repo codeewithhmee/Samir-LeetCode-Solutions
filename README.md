@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
