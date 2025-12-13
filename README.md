@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
