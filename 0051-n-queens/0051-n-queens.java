@@ -26,11 +26,11 @@ class Solution {
             return;
 
         }
-        for (int i = 0; i < n; i++) {
-            if (isValid(column,i,arr,n)) {
-                arr[i][column] = 'Q';
+        for (int row = 0; row < n; row++) {
+            if (isValid(column,row,arr,n)) {
+                arr[row][column] = 'Q';
                 helper(n, column + 1, ans, arr);
-                arr[i][column]='.';
+                arr[row][column]='.';
             }
         }
 
