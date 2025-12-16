@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
