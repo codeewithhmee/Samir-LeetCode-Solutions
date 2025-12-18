@@ -79,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [2487-remove-nodes-from-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
