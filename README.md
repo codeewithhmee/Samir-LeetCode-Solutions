@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
