@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
