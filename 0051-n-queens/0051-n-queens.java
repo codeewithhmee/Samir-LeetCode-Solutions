@@ -1,61 +1,54 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ans = new ArrayList<>();
-        char[][] arr = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(arr[i], '.');
+        char[][] board=new char[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                board[i][j]='.';
+            }
         }
-
-        helper(n, 0, ans, arr);
+        List<List<String>> ans=new ArrayList<>();
+        helper(board,board.length,0,ans);
         return ans;
-    }
+        
 
-    public void helper(int n, int column, List<List<String>> ans, char[][] arr) {
-        if (column >= n) {
-            //it is valid
+    } 
+    public void helper(char[][] board,int c,int cc,List<List<String>> ans){
+        if(cc==board.length){
+            //it is a valid case
             List<String> temp=new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                String s = "";
-                for (int j = 0; j < n; j++) {
-                    char c = arr[i][j];
-                    s = s + c;
+            for(int i=0;i<board.length;i++){
+                String s="";
+                for(int j=0;j<board.length;j++){
+                    char ch=board[i][j];
+                    s=s+ch;
                 }
                 temp.add(s);
             }
-            ans.add(temp);
+            ans.add(new ArrayList<>(temp));
             return;
-
         }
-        for (int row = 0; row < n; row++) {
-            if (isValid(column,row,arr,n)) {
-                arr[row][column] = 'Q';
-                helper(n, column + 1, ans, arr);
-                arr[row][column]='.';
-            }
+        for(int cr=0;cr<board.length;cr++){
+            if(isSafe(board,cr,cc)){
+            board[cr][cc]='Q';
+            helper(board,c,cc+1,ans);
+            //backtrack
+            board[cr][cc]='.';
         }
-
-    }
-    public boolean isValid(int cc,int cr,char[][] arr,int n){
-        //checking left
-        for(int i=0;i<cc;i++){
-            if(arr[cr][i]=='Q')return false;
         }
-        //checking diognal upper left
-        int r=cr-1;
-        int c=cc-1;
-        while(r>=0 && c>=0){
-            if(arr[r][c]=='Q')return false;
-            r--;
-            c--;
+    } 
+    public boolean isSafe(char[][] board,int cr,int cc){
+        //check left side
+        for(int i=cc-1;i>=0;i--){
+            if(board[cr][i]=='Q')return false;
         }
-        //checking lower diognal left
-        r=cr+1;
-        c=cc-1;
-            while(r<n && c>=0){
-            if(arr[r][c]=='Q')return false;
-            r++;
-            c--;
+        //check up diagonal \
+        for(int i=cr-1,j=cc-1;i>=0 && j>=0;i--,j--){
+            if(board[i][j]=='Q')return false;
         }
-return true;
+        //check low diognal
+        for(int i=cr+1, j=cc-1;i<board.length && j>=0;i++,j--){
+             if(board[i][j]=='Q')return false;
+        }
+        return true;
     }
 }
