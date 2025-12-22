@@ -5,12 +5,24 @@ class Solution {
         for(int n:nums){
             map1.put(n,map1.getOrDefault(n,0)+1);
         }
-        for(int i=0;i<nums.length;i++){
-            HashMap<Integer,Integer> map2=new HashMap<>();
-            for(int j=i;j<nums.length;j++){
-                map2.put(nums[j],map2.getOrDefault(nums[j],0)+1);
-                if(map1.size()==map2.size())ans++;
-            }
+        int size=map1.size();
+
+        return atMost(nums,size)-atMost(nums,size-1);
+    }
+    public int atMost(int[] nums,int k){
+        int l=0;
+        int ans=0;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int r=0;r<nums.length;r++){
+              map.put(nums[r],map.getOrDefault(nums[r],0)+1);
+              while(l<=r && map.size()>k){
+                 map.put(nums[l],map.getOrDefault(nums[l],0)-1);
+                 if(map.get(nums[l])==0){
+                    map.remove(nums[l]);
+                 }
+                 l++;
+              }
+              ans=ans+r-l+1;
         }
         return ans;
     }
