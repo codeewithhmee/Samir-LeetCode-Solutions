@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
