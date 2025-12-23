@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
