@@ -14,7 +14,7 @@ class Solution {
             }else{
 
             }
-            if(countVowels==5 && word.charAt(l) == 'a'){
+            if(countVowels==5 ){
                  ans = Math.max(ans, r - l + 1);
             }
             p=c;
