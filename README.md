@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
