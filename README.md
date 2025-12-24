@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
