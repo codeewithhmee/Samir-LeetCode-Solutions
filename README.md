@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Backtracking
@@ -145,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
