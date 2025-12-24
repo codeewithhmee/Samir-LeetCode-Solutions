@@ -10,7 +10,7 @@ class Solution {
             if (r - l + 1 < k)
                 continue;
 
-            if (r - l + 1 == k && map.size()>=m) {
+            if ( map.size()>=m) {
                 ans = Math.max(ans, sum);
             }
             map.put(nums.get(l), map.getOrDefault(nums.get(l), 0) - 1);
