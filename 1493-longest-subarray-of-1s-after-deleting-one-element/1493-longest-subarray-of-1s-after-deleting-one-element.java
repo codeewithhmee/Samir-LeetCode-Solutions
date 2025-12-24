@@ -12,11 +12,9 @@ class Solution {
                 l++;
             }
             //valid window
-            if(f==1){
+            
                 ans=Math.max(ans,r-l);
-            }else{
-                ans=Math.max(ans,r-l);
-            }
+           
         }
         return ans;
     }
