@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
