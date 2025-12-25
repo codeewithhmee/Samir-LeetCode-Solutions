@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3531-count-covered-buildings](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3364-minimum-positive-sum-subarray](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
