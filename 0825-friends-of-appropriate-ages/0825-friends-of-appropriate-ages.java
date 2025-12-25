@@ -1,25 +1,22 @@
 class Solution {
     public int numFriendRequests(int[] ages) {
+        int ans = 0;
         Arrays.sort(ages);
-        int n = ages.length;
-        int fr = 0;
-
-        int left = 0, right = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (ages[i] < 15) continue;
-
-            while (ages[left] <= 0.5 * ages[i] + 7) {
-                left++;
+        for (int i = 0; i < ages.length; i++) {
+            int threshold = ages[i] / 2 + 7;
+            for (int j = i - 1; j >=0 ; j--) {
+                if (ages[j] > threshold) { 
+                    if(ages[i]==ages[j]){
+                        ans+=2;
+                    }else{
+                        ans++;
+                    }
+                }else{
+                    break;
+                }
             }
-
-            while (right + 1 < n && ages[right + 1] <= ages[i]) {
-                right++;
-            }
-
-            fr += Math.max(0, right - left);
         }
-
-        return fr;
+   
+        return ans;
     }
 }
