@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1763-longest-nice-substring](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0876-middle-of-the-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Line Sweep
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
