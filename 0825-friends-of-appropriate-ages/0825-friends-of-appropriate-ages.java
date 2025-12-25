@@ -11,6 +11,8 @@ class Solution {
                     }else{
                         ans++;
                     }
+                }else{
+                    break;
                 }
             }
         }
