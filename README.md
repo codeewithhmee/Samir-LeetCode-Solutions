@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Line Sweep
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
