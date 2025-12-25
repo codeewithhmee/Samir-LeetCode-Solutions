@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 ## Line Sweep
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
