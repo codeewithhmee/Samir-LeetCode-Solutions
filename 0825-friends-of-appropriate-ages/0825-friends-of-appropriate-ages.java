@@ -10,6 +10,7 @@ class Solution {
 
             while (left < n && ages[left] <= 0.5 * ages[i] + 7) left++;
             while (right + 1 < n && ages[right + 1] <= ages[i]) right++;
+            System.out.println("i:"+i+",right:"+right);
 
            res += (right - left);
         }
