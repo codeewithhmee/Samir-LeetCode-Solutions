@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0825-friends-of-appropriate-ages](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0825-friends-of-appropriate-ages](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
