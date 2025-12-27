@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
