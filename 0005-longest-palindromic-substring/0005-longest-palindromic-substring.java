@@ -1,25 +1,34 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String ans="";
-        int max=-9999;
-      for(int i=0;i<s.length();i++){
-        for(int j=s.length()-1;j>=i;j--){
-            if(check(s,i,j)) {
-                if(j-i>max){
-                    max=j-i;
-                    ans=s.substring(i,j+1);
+        int[] idx = new int[2];
+        int ans = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int oddLength = expand(s, i, i);
+            int evenLength = expand(s, i, i + 1);
+            if (oddLength > evenLength) {
+                if (ans < oddLength) {
+                    ans = oddLength;
+                    idx[0] = i - oddLength / 2;
+                    idx[1] = i + oddLength / 2;
+                }
+            } else {
+                if (ans < evenLength) {
+                    ans = evenLength;
+                    idx[0] = i - (evenLength - 1) / 2;
+                    idx[1] = i + evenLength / 2;
+
                 }
             }
         }
-      }
-      return ans;
+        return s.substring(idx[0], idx[1] + 1);
+
     }
-    public static boolean check(String s,int l,int r){
-       while(l<r){
-        if(s.charAt(l)!=s.charAt(r))return false;
-        l++;
-        r--;
-       }
-       return true;
+
+    public int expand(String s, int l, int r) {
+        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+            l--;
+            r++;
+        }
+        return r - l - 1;
     }
 }
