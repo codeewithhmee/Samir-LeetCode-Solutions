@@ -3,8 +3,7 @@ class Solution {
     public String largestTimeFromDigits(int[] arr) {
         permu(arr,0);
         if(hour==-1)return "";
-        System.out.println(hour);
-        System.out.println(min);
+     
          String h=String.valueOf(hour);
          String m=String.valueOf(min);
 
