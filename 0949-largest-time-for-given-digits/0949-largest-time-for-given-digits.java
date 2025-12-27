@@ -22,7 +22,7 @@ class Solution {
         if(idx==arr.length){
             int h=arr[0]*10+arr[1];
             int m=arr[2]*10+arr[3];
-            if(h<24 && m<59){
+            if(h<24 && m<60){
                 if(h>hour){
                     hour=h;
                     min=m;
