@@ -3,10 +3,7 @@ class Solution {
         int ans = 0;
         //for odd and even length
         for (int i = 0; i < s.length(); i++) {
-            //for odd length
-            ans += odd(s, i);
-            //for evern length
-            ans+=even(s,i);
+            ans += odd(s, i)+even(s,i);
         }
         return ans;
 
@@ -16,9 +13,7 @@ class Solution {
         int l = i;
         int r = i;
         int ans = 0;
-        while (l >= 0 && r < s.length() && s.charAt(l--) == s.charAt(r++)) {
-            ans++;
-        }
+        while (l >= 0 && r < s.length() && s.charAt(l--) == s.charAt(r++)) { ans++;}
         return ans;
     }
 
@@ -26,11 +21,7 @@ class Solution {
         int l = i;
         int r = i + 1;
         int ans = 0;
-        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
-            ans++;
-            l--;
-            r++;
-        }
+       while (l >= 0 && r < s.length() && s.charAt(l--) == s.charAt(r++)) { ans++;}
         return ans;
     }
 }
