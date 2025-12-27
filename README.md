@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0946-validate-stack-sequences](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0986-interval-list-intersections](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -327,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
