@@ -14,7 +14,6 @@ class Solution {
                 destination=i;
             }
         }
-        System.out.println(destination);
         return destination==0;
     }
 }
