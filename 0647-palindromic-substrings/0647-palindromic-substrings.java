@@ -1,20 +1,38 @@
 class Solution {
     public int countSubstrings(String s) {
-        int ans=0;
-        for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                String ss=s.substring(i,j+1);
-                if(isPalin(ss))ans++;
-            }
+        int ans = 0;
+        //for odd and even length
+        for (int i = 0; i < s.length(); i++) {
+            //for odd length
+            ans += odd(s, i);
+            //for evern length
+            ans+=even(s,i);
+        }
+        return ans;
+
+    }
+
+    public int odd(String s, int i) {
+        int l = i;
+        int r = i;
+        int ans = 0;
+        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+            ans++;
+            l--;
+            r++;
         }
         return ans;
     }
-    public boolean isPalin(String s){
-        int l=0;
-        int r=s.length()-1;
-        while(l<r){
-            if(s.charAt(l++)!=s.charAt(r--))return false;
+
+    public int even(String s, int i) {
+        int l = i;
+        int r = i + 1;
+        int ans = 0;
+        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+            ans++;
+            l--;
+            r++;
         }
-        return true;
+        return ans;
     }
 }
