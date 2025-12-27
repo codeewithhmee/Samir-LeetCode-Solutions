@@ -16,10 +16,8 @@ class Solution {
         int l = i;
         int r = i;
         int ans = 0;
-        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+        while (l >= 0 && r < s.length() && s.charAt(l--) == s.charAt(r++)) {
             ans++;
-            l--;
-            r++;
         }
         return ans;
     }
