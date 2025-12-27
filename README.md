@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0078-subsets) |
 | [1763-longest-nice-substring](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Design
 |  |
@@ -351,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0949-largest-time-for-given-digits](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
