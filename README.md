@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/codeewithhmee/Samir-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
